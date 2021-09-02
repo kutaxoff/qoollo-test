@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "pic": null, 
+            "email": "jack@statamic.com", 
+            "name": "Jack McDade", 
+            "roles": [
+                "Super Admin"
+            ],
+            "last_login": "7 hours ago"
+        },
+        {
+            "id": 2,
+            "pic": null, 
+            "email": "1jack@statamic.com", 
+            "name": "1Jack McDade", 
+            "roles": [
+                "Super Admin"
+            ],
+            "last_login": "17 hours ago"
+        },
+        {
+            "id": 3,
+            "pic": null, 
+            "email": "2jack@statamic.com", 
+            "name": "2Jack McDade", 
+            "roles": [
+                "Super Admin"
+            ],
+            "las_login": "27 hours ago"
+        },
+        {
+            "id": 4,
+            "pic": null, 
+            "email": "3jack@statamic.com", 
+            "name": "3Jack McDade", 
+            "roles": [
+                "Super Admin"
+            ],
+            "last_login": "37 hours ago"
+        }
+    ]
+  }
